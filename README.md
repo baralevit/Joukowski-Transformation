@@ -24,3 +24,5 @@ For a cambered airfoil the center needs to by asymmetric with respect to the y-a
 <p align="center">
 <img width="349" alt="5" src="https://user-images.githubusercontent.com/69160824/134475723-7f7f42a3-8058-49d3-8bbc-1089bd66d083.PNG"> 
 </p>
+
+In general, note that if the circle passes through either of the two non-conformal points (±1 in this case) then the transformation contains a sharp edge, as we see in the airfoil examples above (the tail of the airfoil is sharp). Similarly, we see that two sharp edges exist when the circle passes through both of the non-conformal points, as demonstrated in the first two examples when the circle was mapped to a line or an arc. 
